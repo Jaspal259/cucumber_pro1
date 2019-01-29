@@ -2,8 +2,6 @@ Feature: test data
 
    Feature 
    
-
-
    @new Feature
    Scenario: Scenario name
    Given Start to type your Given step here
