@@ -2,6 +2,8 @@ Feature: test data
 
    Feature 
    
+
+
    @new Feature
    Scenario: Scenario name
    Given Start to type your Given step here
@@ -11,8 +13,3 @@ Feature: test data
    But Start to type your But step here
    
    
-
-   Examples:
-   | user1 | Header 2 | Header 3 |
-   | paaswrd1  | Value 2  | Value 3  |test user |
-
